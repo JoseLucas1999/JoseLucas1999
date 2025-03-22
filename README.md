@@ -1,6 +1,6 @@
-- 👋 Hi, I’m JoseLucas de Gois Amorim
-- 👀 I’m interested in Front-end, Back-end, Java and MySQL
-- 🌱 I’m currently Majoring in T.I (analyse and development of system)
+- 👋 Hi, I’m Jose Lucas de Gois Amorim
+- 👀 I’m interested in Back-end, Java, Spring Boot, MySQL.
+- 🌱 I’m currently graduated in T.I (analyse and development of system)
 - 💞️ I’m looking to a job as a back-end developer 
 - 📫 E-mail: joslucasgois@gmail.com
 -    Number: (16) 997986230
