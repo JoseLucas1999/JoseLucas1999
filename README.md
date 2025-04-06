@@ -1,6 +1,6 @@
 👋 Hi, I’m Jose Lucas de Gois Amorim!
 
-💻 Back-end Developer | Java | Spring Boot | MySQL | Java Desktop
+💻 Back-end Developer | Java Web | Spring Boot | MySQL | Java Desktop | JavaFX
 
 🔥 Passionate about building scalable and efficient back-end systems.
 
