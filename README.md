@@ -12,6 +12,8 @@
 
 📬 Contact me:
 
+💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-lucas-gois-amorim-929785212/
+
 📧 Email: joslucasgois@gmail.com
 
 📞 WhatsApp: (+55) 16 99798-6230
