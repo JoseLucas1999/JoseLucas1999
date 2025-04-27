@@ -1,6 +1,6 @@
 👋 Hi, I’m Jose Lucas de Gois Amorim!
 
-[![blog](https://camo.githubusercontent.com/e2401dd26daa40cf055d4ba675b3f263c8ac5e809a8cdcf9083ab73caea7d9fd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667)]
+[!blog](https://camo.githubusercontent.com/e2401dd26daa40cf055d4ba675b3f263c8ac5e809a8cdcf9083ab73caea7d9fd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667)
 [![blog](https://camo.githubusercontent.com/53f0f04650bfc2aef2ec4fd578d1fca0ef7ecafe5a802eea6b8ee597cad9f936/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667)]
 [![blog](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]
 [![blog](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg)]
