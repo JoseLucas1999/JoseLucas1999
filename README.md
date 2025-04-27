@@ -1,6 +1,6 @@
 👋 Hi, I’m Jose Lucas de Gois Amorim!
 
-💻 Back-end Developer | Java Spring Boot | REST API's | MySQL | React |
+💻 Back-end Developer | Java Spring Boot | REST API's | MySQL | JUnit |
 
 🔥 Passionate about building scalable and efficient back-end systems.
 
