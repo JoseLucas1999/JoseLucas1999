@@ -1,5 +1,4 @@
-👋 Hi, I’m Jose Lucas de Gois Amorim!
-
+👋 Hi There!
 (Java | Spring Boot | MySQL | Javascript | HTML | CSS ) 🚀
 
 * 🎓 Analysis and Systems Development.
