@@ -1,13 +1,6 @@
 👋 Hi There!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLucas1999)](https://github.com/JoseLucas1999/github-readme-stats)
-
-(Java | Spring Boot | MySQL | Javascript | HTML | CSS ) 🚀
-
-* 🎓 Analysis and Systems Development.
-* 💻 Back-end Developer
-* 🔥 Passionate about web development
-* 🎯 constant programming student
-
 
 * 📬 Contact me:
 * 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-lucas-gois-amorim-929785212/
