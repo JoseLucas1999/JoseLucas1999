@@ -1,7 +1,3 @@
-👋 Hi There!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLucas1999)](https://github.com/JoseLucas1999/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLucas1999)](https://github.com/JoseLucas1999/github-readme-stats)
 
 * 📬 Contact me:
